@@ -7,9 +7,9 @@ public class Main {
     public static void main(String[] args) {
         //scan for the user inputs
         Scanner scan = new Scanner(System.in);
-        System.out.println ("input your 1st value:");
+        System.out.println ("input your first number:");
         String input1 = scan.nextLine();
-        System.out.println ("input your 2nd value:");
+        System.out.println ("input your second number:");
         String input2 = scan.nextLine();
 
 
