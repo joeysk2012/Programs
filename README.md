@@ -1,5 +1,4 @@
 # Programs
-a repository
-Hello this is the readme file for all of the edit that goes in this program
+Hello this is my first repository. There is nothing interesting in here.
 JSK 11/16/2016
-Hello this is an edit
+
